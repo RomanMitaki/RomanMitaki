@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=RomanMitaki&color=BB2649&style=flat-square)
+![](https://komarev.com/ghpvc/?username=RomanMitaki&color=BB2649&style=for-the-badge)
 
 <!--
 **RomanMitaki/RomanMitaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
