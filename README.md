@@ -1,6 +1,7 @@
 ![image](https://user-images.githubusercontent.com/96333322/205638258-e4bdac0e-f651-4916-9698-f3f66e211ff4.png)
 ![](https://komarev.com/ghpvc/?username=RomanMitaki&color=BB2649&style=for-the-badge)  
-[![codewars](https://www.codewars.com/users/RomanMitaki/badges/small?theme=light)](https://www.codewars.com/users/RomanMitaki) 
+[![codewars](https://www.codewars.com/users/RomanMitaki/badges/small?theme=light)](https://www.codewars.com/users/RomanMitaki)  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 <!--
 **RomanMitaki/RomanMitaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
