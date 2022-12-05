@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Roman 
 </h1>
 <h3 align="center">a beginner front-end developer</h3>
-![](https://komarev.com/ghpvc/?username=RomanMitaki&color=green)
+[ ](https://komarev.com/ghpvc/?username=RomanMitaki&color=green)
 
 <!--
 **RomanMitaki/RomanMitaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
