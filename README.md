@@ -5,6 +5,7 @@
 ---  
 >It never gets easier, you just get faster.  
 >Become who you are.
+>Do no harm, but take no crap.
 
 <!--
 **RomanMitaki/RomanMitaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
