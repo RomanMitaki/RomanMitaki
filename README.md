@@ -4,7 +4,7 @@
 [![codewars](https://www.codewars.com/users/RomanMitaki/badges/small?theme=light)](https://www.codewars.com/users/RomanMitaki)
 ---  
 >It never gets easier, you just get faster.  
->Become who you are.
+>Become who you are.\n
 >Do no harm, but take no crap.
 
 <!--
