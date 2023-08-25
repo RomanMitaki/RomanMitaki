@@ -4,7 +4,7 @@
 [![codewars](https://www.codewars.com/users/RomanMitaki/badges/small?theme=light)](https://www.codewars.com/users/RomanMitaki)
 ---  
 >It never gets easier, you just get faster.  
->Do no harm, but take no crap.
+>Do or do not. There is no try.
 
 <!--
 **RomanMitaki/RomanMitaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
